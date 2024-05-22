@@ -1,3 +1,3 @@
 # NeelGaji.github.io
 
-neelgajiwala.me/Portfolio
+neelgajiwala.me/portfolio
